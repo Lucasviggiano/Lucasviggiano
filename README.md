@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Lucas Viggiano, tenho 33 anos e sou natural de Minas Gerais, sou da área de Engenharia de Software especialmente qualidade de software pela Escola Britanica de artes criativas & Tecnologia. Estudante das AIs, e apaixonado por tecnologia. 
+Me chamo Lucas Viggiano, tenho 33 anos e sou natural de Minas Gerais, engenharia de Software especialmente qualidade de software pela Escola Britanica de artes criativas & Tecnologia. Estudante das AIs, e apaixonado por tecnologia. 
 
 ### 🤖 Linguagens e Tecnologias
 

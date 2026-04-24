@@ -41,8 +41,5 @@ Também utilizo Inteligência Artificial aplicada à tecnologia, automação e p
   <img alt="GitHub Actions" title="GitHub Actions" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" />
   <img alt="Docker" title="Docker" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img alt="Linux" title="Linux" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
-  <img alt="OpenAI" title="OpenAI" width="35px" style="padding-right:10px;" src="https://cdn.simpleicons.org/openai" />
-  <img alt="Codex" title="OpenAI Codex" width="35px" style="padding-right:10px;" src="https://cdn.simpleicons.org/openai" />
   <img alt="n8n" title="n8n" width="35px" style="padding-right:10px;" src="https://cdn.simpleicons.org/n8n" />
 </p>

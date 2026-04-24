@@ -8,7 +8,7 @@ Minha atuação é voltada para Gestão da Qualidade, automação de testes e va
 
 Também utilizo da Inteligência Artificial aplicando tecnologia, automação e pensamento estratégico para melhorar a confiabilidade, a escalabilidade e a experiência dos usuários em produtos digitais, principalmente sistemas de e-commerce.
 
-## 🤖 Algums das Linguagens e Tecnologias que favorito no trabalho
+## 🤖 Algums das Linguagens e Tecnologias que favorito no trabalho como QE
 
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />

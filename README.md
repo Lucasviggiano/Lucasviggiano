@@ -21,10 +21,6 @@ Também utilizo Inteligência Artificial aplicada à tecnologia, automação e p
 </p>
 I’m Lucas Viggiano, a Software Quality Engineer from Minas Gerais, Brazil, trained at the British School of Creative Arts & Technology — EBAC, and passionate about technology, automation, and Artificial Intelligence.
 
-I focus on quality engineering, test automation, and the validation of critical business flows across web, API, mobile, and performance testing. I work with Cypress, Playwright, Supertest, Postman, Appium, WebdriverIO, k6, JavaScript, Git, GitHub Actions, CI/CD, BDD, Gherkin, Page Objects, App Actions, functional testing, regression testing, end-to-end testing, contract testing, and performance testing.
-
-I also use AI-driven tools such as OpenAI Codex and n8n to improve productivity, reliability, scalability, and user experience in digital products, especially e-commerce platforms.
-
 ---
 
 ## 🤖 Algumas linguagens e tecnologias que utilizo como QE

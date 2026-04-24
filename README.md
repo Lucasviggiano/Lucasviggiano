@@ -2,13 +2,13 @@
 
 **`Engenheiro de Qualidade de Software`**
 
-Sou Lucas, natural de Minas Gerais, Engenheiro de Qualidade de Software pela Escola Britânica de Artes Criativas & Tecnologia—EBAC.
+Sou Lucas Viggiano, natural de Minas Gerais, entusiasta da tecnologia, cresci na Escola Britânica de Artes Criativas & Tecnologia — EBAC.
 
-Minha atuação é voltada para gestão da Qualidade, automação de testes e validação de fluxos críticos em sistemas web, APIs, mobile e performance. Tenho experiência com Cypress, Playwright, Supertest, Postman, Appium, WebdriverIO, k6, JavaScript, Git, GitHub Actions, CI/CD, BDD, Gherkin, Page Objects, App Actions, testes funcionais, testes regressivos, testes end-to-end, testes de contrato e testes de performance.
+Minha atuação é voltada para Gestão da Qualidade, automação de testes e validação de fluxos críticos em sistemas web, APIs, mobile e performance. Tenho experiência com Cypress, Playwright, Supertest, Postman, Appium, WebdriverIO, k6, JavaScript, Git, GitHub Actions, CI/CD, BDD, Gherkin, Page Objects, App Actions, testes funcionais, testes regressivos, testes end-to-end, testes de contrato e testes de performance.
 
-Também utilizo da Inteligência Artificialaplicando tecnologia, automação e pensamento estratégico para melhorar a confiabilidade, a escalabilidade e a experiência dos usuários em produtos digitais, principalmente e-commerce.
+Também utilizo da Inteligência Artificial aplicando tecnologia, automação e pensamento estratégico para melhorar a confiabilidade, a escalabilidade e a experiência dos usuários em produtos digitais, principalmente sistemas de e-commerce.
 
-## 🤖 Linguagens e Tecnologias
+## 🤖 Algums das Linguagens e Tecnologias que favorito no trabalho
 
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />

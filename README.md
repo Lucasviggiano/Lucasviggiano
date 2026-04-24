@@ -22,7 +22,7 @@ Também utilizo Inteligência Artificial aplicada à tecnologia, automação e p
 
 ## 📂 Portfólio
 
-[Acesse meu portfólio de Engenharia de Qualidade de Software](https://github.com/Lucasviggiano?tab=repositories)
+[Acesse meu portfólio de Engenharia de Qualidade de Software](https://github.com/Lucasviggiano/Quality-Assurance-Engineer-Portifolio.git)
 
 ---
 

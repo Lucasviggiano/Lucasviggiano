@@ -13,7 +13,7 @@ Sou Lucas Viggiano, natural de Minas Gerais, entusiasta das tecnologias, Engenhe
 </p>
 
 <p align="justify">
-Minha atuação é voltada para Gestão da Qualidade, automação de testes e validação de fluxos críticos em sistemas web, APIs, mobile e performance. Tenho experiência com Cypress, Playwright, Supertest, Postman, Appium, WebdriverIO, k6, JavaScript, Git, GitHub Actions, CI/CD, BDD, Gherkin, Page Objects, App Actions, testes funcionais, testes regressivos, testes end-to-end, testes de contrato e testes de performance.
+Minha atuação é voltada para gestão da qualidade, automação de testes e validação de fluxos críticos em sistemas web, APIs, mobile e performance. Tenho experiência com Cypress, Playwright, Supertest, Postman, Appium, WebdriverIO, k6, JavaScript, Git, GitHub Actions, CI/CD, BDD, Gherkin, Page Objects, App Actions, testes funcionais, testes regressivos, testes end-to-end, testes de contrato e testes de performance.
 </p>
 
 <p align="justify">

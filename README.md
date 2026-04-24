@@ -19,7 +19,10 @@ Minha atuação é voltada para gestão da qualidade, automação de testes e va
 <p align="justify">
 Também utilizo Inteligência Artificial aplicada à tecnologia, automação e pensamento estratégico para melhorar a  produtividade confiabilidade, a escalabilidade e a experiência dos usuários em produtos digitais, principalmente sistemas de e-commerce. Utilizando principamnete o Codex e N8n.
 </p>
-I’m Lucas Viggiano, a Software Quality Engineer from Minas Gerais, Brazil, trained at the British School of Creative Arts & Technology — EBAC, and passionate about technology, automation, and Artificial Intelligence.
+
+## 📂 Portfólio
+
+[Acesse meu portfólio de Engenharia de Qualidade de Software](https://github.com/Lucasviggiano?tab=repositories)
 
 ---
 

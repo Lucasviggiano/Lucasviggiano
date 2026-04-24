@@ -9,7 +9,7 @@
 ---
 
 <p align="justify">
-Sou Lucas Viggiano, natural de Minas Gerais, entusiasta de tecnologia e estudante de Engenharia de Software com foco em Qualidade de Software pela Escola Britânica de Artes Criativas & Tecnologia — EBAC.
+Sou Lucas Viggiano, natural de Minas Gerais, entusiasta das tecnologias, Engenheiro de Qualidade de Software pela Escola Britânica de Artes Criativas & Tecnologia — EBAC.
 </p>
 
 <p align="justify">
@@ -17,7 +17,7 @@ Minha atuação é voltada para Gestão da Qualidade, automação de testes e va
 </p>
 
 <p align="justify">
-Também utilizo Inteligência Artificial aplicada à tecnologia, automação e pensamento estratégico para melhorar a confiabilidade, a escalabilidade e a experiência dos usuários em produtos digitais, principalmente sistemas de e-commerce.
+Também utilizo Inteligência Artificial aplicada à tecnologia, automação e pensamento estratégico para melhorar a  produtividade confiabilidade, a escalabilidade e a experiência dos usuários em produtos digitais, principalmente sistemas de e-commerce. Utilizando principamnete o Codex e N8n.
 </p>
 
 ---

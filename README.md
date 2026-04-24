@@ -6,7 +6,7 @@ Sou Lucas, natural de Minas Gerais, Engenheiro de Qualidade de Software pela Esc
 
 Minha atuação é voltada para gestão da Qualidade, automação de testes e validação de fluxos críticos em sistemas web, APIs, mobile e performance. Tenho experiência com Cypress, Playwright, Supertest, Postman, Appium, WebdriverIO, k6, JavaScript, Git, GitHub Actions, CI/CD, BDD, Gherkin, Page Objects, App Actions, testes funcionais, testes regressivos, testes end-to-end, testes de contrato e testes de performance.
 
-Também estudo Inteligência Artificial e busco aplicar tecnologia, automação e pensamento estratégico para melhorar a confiabilidade, a escalabilidade e a experiência dos usuários em produtos digitais. 
+Também utilizo da Inteligência Artificialaplicando tecnologia, automação e pensamento estratégico para melhorar a confiabilidade, a escalabilidade e a experiência dos usuários em produtos digitais, principalmente e-commerce.
 
 ## 🤖 Linguagens e Tecnologias
 

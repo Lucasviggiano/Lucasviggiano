@@ -2,7 +2,7 @@
 
 **`Engenheiro de Qualidade de Software`**
 
-Sou Lucas Viggiano, natural de Minas Gerais, Engenheiro de Qualidade de Software pela Escola Britânica de Artes Criativas & Tecnologia — EBAC.
+Sou Lucas Viggiano, natural de Minas Gerais, Engenheiro de Qualidade de Software pela Escola Britânica de Artes Criativas & Tecnologia—EBAC.
 
 Minha atuação é voltada para gestão da Qualidade, automação de testes e validação de fluxos críticos em sistemas web, APIs, mobile e performance. Tenho experiência com Cypress, Playwright, Supertest, Postman, Appium, WebdriverIO, k6, JavaScript, Git, GitHub Actions, CI/CD, BDD, Gherkin, Page Objects, App Actions, testes funcionais, testes regressivos, testes end-to-end, testes de contrato e testes de performance.
 
